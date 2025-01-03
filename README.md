@@ -6,6 +6,7 @@
 - [article](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) : About github pages and jekyll.
 - [article](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) : Custom domain for your github pages site.
 - [article](https://docs.github.com/es/pages) : Github pages documentation.
+- [jekyll](https://jekyllrb.com/) : Static site generator.
 
 ## todos
 - implement jekyll framework.
