@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Welcome to my portfolio! I’m a passionate and experienced web developer with a focus on front-end and back-end development using a range of modern technologies. With a deep understanding of HTML, CSS, JavaScript, and server-side frameworks, I help businesses build responsive, scalable, and efficient websites and applications.
+I’m a passionate and experienced web developer with a focus on front-end and back-end development using a range of modern technologies. With a deep understanding of HTML, CSS, JavaScript, and server-side frameworks, I help businesses build responsive, scalable, and efficient websites and applications.
