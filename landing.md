@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>>About me</h2>
+			<h2>About me</h2>
 		</header>
 		<p>I specialize in creating dynamic, user-friendly websites with an emphasis on clean, maintainable code. Over the years, I've worked on various projects involving a wide range of technologies, including front-end JavaScript frameworks, back-end solutions, and API integrations.</p>
 		<p>I am committed to producing high-quality, scalable solutions that meet both user needs and business objectives. Whether I am designing an intuitive user interface, optimizing a database query, or building a RESTful API, I take pride in writing efficient and reliable code.</p>
@@ -57,14 +57,14 @@ nav-menu: true
 					<h3>Platform Integration</h3>
 				</header>
 				<p>I specialize in seamless platform integration to ensure that systems work harmoniously together, enhancing overall efficiency and functionality. My experience includes:
-				<u>
+				<ul>
 					<li><strong>Third-Party API Integration:</strong>Connecting applications to external services such as payment gateways, social media platforms, and analytics tools.</li>
 					<li><strong>Content Management Systems (CMS):</strong> Integrating and customizing platforms like WordPress, Contentful, and Netlify CMS to provide user-friendly content management solutions.</li>
 					<li><strong>Cloud Services: </strong> Leveraging platforms like AWS, Azure, and Google Cloud for hosting, database management, and serverless functions.</li>
 					<li><strong>Custom Solutions:</strong> Developing bespoke integrations using RESTful APIs, GraphQL, and webhooks to meet unique business requirements.</li>
 					<li><strong>Automation:</strong> Streamlining workflows through integrations with tools like Zapier and custom scripts, reducing manual intervention and improving productivity.</li>
 					<!-- <li><strong></strong></li> -->
-				</u>
+				</ul>
 				</p>
 				<p>By focusing on robust and scalable integrations, I ensure that businesses can leverage the full potential of their technology ecosystems.</p>
 				<ul class="actions">
@@ -108,14 +108,14 @@ nav-menu: true
 			<h2>Artificial Intelligence</h2>
 		</header>
 		<p>I am fascinated by the transformative potential of Artificial Intelligence (AI) and its applications in web development and beyond. My experience in AI includes:
-		<u>
+		<ul>
 			<li><strong>Machine Learning Models:</strong> Implementing basic machine learning algorithms for tasks like recommendation systems and data analysis.</li>
 			<li><strong>AI-Powered Features:</strong> Integrating AI APIs such as OpenAI and Google AI for functionalities like natural language processing, chatbots, and predictive analytics.</li>
 			<li><strong>Data Processing:</strong> Utilizing tools like Python and libraries such as TensorFlow and Pandas to preprocess data and build AI-driven solutions.</li>
 			<li><strong>Ethical AI Development:</strong> Ensuring that AI implementations respect user privacy, minimize biases, and align with ethical standards.</li>
 			<li><strong>AI Tools for Development:</strong> This portfolio was built using AI tools, showcasing how technology can streamline the creation of impactful digital experiences.</li>
 			<!-- <li><strong></strong></li> -->
-		</u>
+		</ul>
 		</p>
 		<p>By leveraging AI technologies, I aim to build smarter, more efficient systems that enhance user experiences and provide valuable insights.</p>
 		<ul class="actions">

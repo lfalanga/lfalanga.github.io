@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 3660 Uspallata
-city: Autonomous City of Buenos Aires
+city: Autonomous City
 state: Buenos Aires
 zip_code: C1437JCV
 country: Argentina
