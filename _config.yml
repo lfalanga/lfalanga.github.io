@@ -42,5 +42,6 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md
+- landing.md
 - elements.md
 - generic.md
