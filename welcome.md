@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. Welcome
+title: Welcome
 description: Welcome to my portfolio!
 image: assets/images/pic11.jpg
 nav-menu: true
