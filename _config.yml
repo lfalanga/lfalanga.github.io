@@ -1,17 +1,17 @@
 # site settings
-title: Forty
+title: lfalanga.github.io
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: lfalanga@gmail.com
+description: Welcome to my portfolio! I’m a passionate and experienced web developer with a focus on front-end and back-end development.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 3660 Uspallata
+city: Autonomous City of Buenos Aires
+state: Buenos Aires
+zip_code: C1437JCV
+country: Argentina
+phone: (+54) 9 11 6052-7111
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  GitHub: https://github.com/lfalanga
+  GitLab: https://gitlab.com/lfalanga
+  Google-Plus:
+  Instagram: https://www.instagram.com/sosiegoless/
+  LinkedIn: https://www.linkedin.com/in/leandrofalanga/
+  Twitter: https://x.com/Sosiegoless
   Facebook:
   Slack:
 
