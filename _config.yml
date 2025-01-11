@@ -3,7 +3,7 @@ title: lfalanga.github.io
 subtitle: by HTML5 UP
 email: lfalanga@gmail.com
 description: Welcome to my portfolio! I’m a passionate and experienced web developer with a focus on front-end and back-end development.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 3660 Uspallata
