@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Skilss</h1>
+			<h1>Skills</h1>
 		</header>
 
 <!-- Content -->
@@ -20,7 +20,7 @@ nav-menu: true
 <p>The field of web development is constantly evolving, and I am committed to staying ahead of the curve by continuously learning new and emerging techniques. Whether it’s mastering the latest frameworks, exploring innovative technologies, or adopting cutting-edge best practices, I believe in a lifelong journey of growth and improvement to deliver the best possible solutions.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Clean design</h3>
+		<h3>Clean</h3>
 		<p>In addition to continuous learning, I emphasize the importance of responsive and clean design. Creating visually appealing, functional, and adaptable websites ensures that users have a seamless experience regardless of their device or screen size. Clean design not only enhances usability but also promotes maintainability, making it easier to build upon and improve over time.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -29,15 +29,15 @@ nav-menu: true
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Social Tools Integration</h3>
+		<h3>Integration</h3>
 		<p>Integrating social tools into applications enhances user engagement and broadens reach by connecting with existing social networks. This integration allows for features like social login, sharing content across platforms, and fostering community interaction within the application itself. By leveraging social APIs, developers can create more connected and interactive user experiences, driving traffic and increasing brand visibility.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Scalability in Software Engineering</h3>
+		<h3>Scalability</h3>
 		<p>Scalability in software engineering refers to a system's ability to handle increasing amounts of work or data without performance degradation. This is crucial for applications expected to grow in user base or data volume, ensuring consistent performance and availability even under heavy load. Effective scalability strategies involve architectural design, database optimization, and efficient resource management to accommodate future growth.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Importance of Using Cutting-Edge Tools</h3>
+		<h3>Cutting-Edge</h3>
 		<p>Utilizing cutting-edge tools and technologies in development allows for greater efficiency, improved performance, and access to the latest features. These tools often streamline workflows, automate repetitive tasks, and provide access to advanced functionalities like AI and machine learning. Staying current with the latest tools empowers developers to build more innovative, robust, and competitive software solutions.</p>
 	</div>
 </div>
