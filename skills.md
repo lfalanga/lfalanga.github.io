@@ -12,33 +12,33 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Skilss</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Intro</h2>
+<p>The field of web development is constantly evolving, and I am committed to staying ahead of the curve by continuously learning new and emerging techniques. Whether it’s mastering the latest frameworks, exploring innovative technologies, or adopting cutting-edge best practices, I believe in a lifelong journey of growth and improvement to deliver the best possible solutions.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Clean design</h3>
+		<p>In addition to continuous learning, I emphasize the importance of responsive and clean design. Creating visually appealing, functional, and adaptable websites ensures that users have a seamless experience regardless of their device or screen size. Clean design not only enhances usability but also promotes maintainability, making it easier to build upon and improve over time.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Reusability</h3>
+		<p>I also value the importance of reusing available tools and platforms. Leveraging existing technologies and frameworks allows me to develop solutions efficiently without reinventing the wheel. By integrating and customizing tools like CMS platforms, libraries, and APIs, I can focus on delivering tailored solutions while benefiting from the reliability and scalability of proven resources.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Social Tools Integration</h3>
+		<p>Integrating social tools into applications enhances user engagement and broadens reach by connecting with existing social networks. This integration allows for features like social login, sharing content across platforms, and fostering community interaction within the application itself. By leveraging social APIs, developers can create more connected and interactive user experiences, driving traffic and increasing brand visibility.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Scalability in Software Engineering</h3>
+		<p>Scalability in software engineering refers to a system's ability to handle increasing amounts of work or data without performance degradation. This is crucial for applications expected to grow in user base or data volume, ensuring consistent performance and availability even under heavy load. Effective scalability strategies involve architectural design, database optimization, and efficient resource management to accommodate future growth.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Importance of Using Cutting-Edge Tools</h3>
+		<p>Utilizing cutting-edge tools and technologies in development allows for greater efficiency, improved performance, and access to the latest features. These tools often streamline workflows, automate repetitive tasks, and provide access to advanced functionalities like AI and machine learning. Staying current with the latest tools empowers developers to build more innovative, robust, and competitive software solutions.</p>
 	</div>
 </div>
 
