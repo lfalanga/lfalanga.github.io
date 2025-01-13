@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Artificial Intelligence
-description: Secure, Authentication, Data, Threats and Audits.
+description: AI-Powered Features.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
