@@ -14,7 +14,7 @@ I am fascinated by the transformative potential of Artificial Intelligence (AI) 
 - **Ethical AI Development:** Ensuring that AI implementations respect user privacy, minimize biases, and align with ethical standards.
 - **AI Tools for Development:** This portfolio was built using AI tools, showcasing how technology can streamline the creation of impactful digital experiences.
 
-Conducting periodic security reviews and employing tools like OWASP ZAP to identify and fix vulnerabilities.
+By leveraging AI technologies, I aim to build smarter, more efficient systems that enhance user experiences and provide valuable insights.
 
 <ul class="actions">
   <li><a href="skills.html" class="button next">Continue</a></li>
