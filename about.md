@@ -1,7 +1,7 @@
 ---
 title: About
 layout: landing
-description: 'User-friendly websites with an emphasis on clean, maintainable code.'
+description: "User-friendly websites with an emphasis on clean, maintainable code."
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -58,7 +58,7 @@ nav-menu: true
 				</header>
 				<p>I specialize in seamless platform integration to ensure that systems work harmoniously together, enhancing overall efficiency and functionality. My experience includes:
 				<ul>
-					<li><strong>Third-Party API Integration:</strong>Connecting applications to external services such as payment gateways, social media platforms, and analytics tools.</li>
+					<li><strong>Third-Party API Integration:</strong> Connecting applications to external services such as payment gateways, social media platforms, and analytics tools.</li>
 					<li><strong>Content Management Systems (CMS):</strong> Integrating and customizing platforms like WordPress, Contentful, and Netlify CMS to provide user-friendly content management solutions.</li>
 					<li><strong>Cloud Services: </strong> Leveraging platforms like AWS, Azure, and Google Cloud for hosting, database management, and serverless functions.</li>
 					<li><strong>Custom Solutions:</strong> Developing bespoke integrations using RESTful APIs, GraphQL, and webhooks to meet unique business requirements.</li>

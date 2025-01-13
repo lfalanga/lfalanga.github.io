@@ -1,11 +1,23 @@
-<<<<<<< HEAD
-# Forty - Jekyll Theme
+# lfalanga.github.io powered by [HTML5 UP](https://html5up.net/)
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+A Jekyll personal portfolio that uses the "Forty" theme by [HTML5 UP](https://html5up.net/).
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+## Resources
+- [github-pages](https://pages.github.com/) : Getting started with github pages.
+- [markdown](https://www.markdownguide.org/) : The markdown guide.
+- [article](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) : About github pages and jekyll.
+- [article](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) : Custom domain for your github pages site.
+- [article](https://docs.github.com/es/pages) : Github pages documentation.
+- [jekyll](https://jekyllrb.com/) : Static site generator.
+- [sass](https://sass-lang.com/guide/) : Sass basics.
+- [sass](https://sass-guidelin.es/) : Saas guidelines.
+- [sass](https://sass-lang.com/documentation/breaking-changes/import/) : @import and built-in functions.
+- [sass](https://gist.github.com/fredsiika/2958726da1f94a9bd447f4f7bd03a852) : Sass cheatsheet.
 
-# How to Use
+## ToDos
+- Repair scss @imports.
+
+## How to Use
 
 For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
@@ -15,14 +27,14 @@ Simply fork this repository and start editing the `_config.yml` file!
 
 > NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
 
-# Added Features
+## Added Features
 
 * **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
 * Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
 * Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
 * Set **featured images** in front matter.
 
-# Credits
+## Credits
 
 Original README from HTML5 UP:
 
@@ -65,18 +77,3 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
-=======
-# lfalanga.github.io
-
-## resources
-- [github-pages](https://pages.github.com/) : Getting started with github pages.
-- [markdown](https://www.markdownguide.org/) : The markdown guide.
-- [article](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) : About github pages and jekyll.
-- [article](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) : Custom domain for your github pages site.
-- [article](https://docs.github.com/es/pages) : Github pages documentation.
-- [jekyll](https://jekyllrb.com/) : Static site generator.
-
-## todos
-- implement jekyll framework.
-- testing git updates.
->>>>>>> f280092c446cf1280edada2f7b25a14946f2b90a
