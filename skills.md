@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Integration</h3>
 				</header>
-				<p>Integrating social tools into applications enhances user engagement and broadens reach by connecting with existing social networks. This integration allows for features like social login, sharing content across platforms, and fostering community interaction within the application itself. By leveraging social APIs, developers can create more connected and interactive user experiences, driving traffic and increasing brand visibility.</p>
+				<p>Integrating social tools into applications enhances user engagement and broadens reach by connecting with existing social networks. This integration allows for features like social login, sharing content across platforms, and fostering community interaction within the application itself. </p>
 				<ul class="actions">
 					<li><a href="#scalability" class="button scrolly">Read more</a></li>
 				</ul>
