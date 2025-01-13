@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Platform Integration
-description: API integration, CMS, Cloud, Custom, Automation.
+description: Connecting applications to external services.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
