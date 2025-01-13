@@ -1,5 +1,5 @@
 ---
-title: 2. About
+title: Landing
 layout: landing
 description: 'User-friendly websites with an emphasis on clean, maintainable code.'
 image: assets/images/pic07.jpg

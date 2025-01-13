@@ -2,7 +2,7 @@
 title: lfalanga.github.io
 subtitle: by HTML5 UP
 email: lfalanga@gmail.com
-description: Welcome to my portfolio! I’m a passionate and experienced web developer with a focus on front-end and back-end development.
+description: Experienced web developer with a focus on front-end and back-end development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lfalanga.github.io # the base hostname & protocol for your site
 author:
@@ -45,3 +45,4 @@ exclude:
 - landing.md
 - elements.md
 - generic.md
+- welcome.bak.01.md
