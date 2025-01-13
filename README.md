@@ -13,6 +13,7 @@ A Jekyll personal portfolio that uses the "Forty" theme by [HTML5 UP](https://ht
 - [sass](https://sass-guidelin.es/) : Saas guidelines.
 - [sass](https://sass-lang.com/documentation/breaking-changes/import/) : @import and built-in functions.
 - [sass](https://gist.github.com/fredsiika/2958726da1f94a9bd447f4f7bd03a852) : Sass cheatsheet.
+- [github](https://github.com/ruby/setup-ruby) : GitHub action setup-ruby.
 
 ## ToDos
 - Repair scss @imports.
