@@ -78,7 +78,6 @@ nav-menu: true
 			<h2>Scalability</h2>
 		</header>
 		<p>Scalability in software engineering refers to a system's ability to handle increasing amounts of work or data without performance degradation. This is crucial for applications expected to grow in user base or data volume, ensuring consistent performance and availability even under heavy load. Effective scalability strategies involve architectural design, database optimization, and efficient resource management to accommodate future growth.</p>
-		<p>By leveraging AI technologies, I aim to build smarter, more efficient systems that enhance user experiences and provide valuable insights.</p>
 		<ul class="actions">
 			<li><a href="#cutting-edge" class="button scrolly">Read more</a></li>
 		</ul>
