@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cybersecurity
-description: Secure, Authentication, Data, Threats and Audits.
+description: Secure Coding Practices.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
